@@ -6,8 +6,8 @@ you will probably need to remove the ExcelToJsonConverter/Mono folder to avoid c
 
 How to use:
 
-1 Copy the contents of the ExcelToJsonConverter folder into your project's Assets/Editor folder.
-2 Open Unity project and select Tools -> Excel to Json Converter. 
+1. Copy the contents of the ExcelToJsonConverter folder into your project's Assets/Editor folder.
+2. Open Unity project and select Tools -> Excel to Json Converter. 
     - Select input folder where Excel files are located.
     - Select output folder to save Json files.
     - Hit "Convert Excel Files" button.
